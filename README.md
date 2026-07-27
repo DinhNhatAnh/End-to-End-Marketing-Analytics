@@ -56,7 +56,7 @@ Cleaning data (MySQL) -> EDA (MySQL) -> Connect to Excel (Power Query) -> Prepar
 - Optimize marketing budget allocation based on ROI.
 
 ## Dashboard Preview
-*(Add dashboard screenshot here)*
+<img src="Dashboard picture.png" width="1000">
 
 ## Recommendations
 
