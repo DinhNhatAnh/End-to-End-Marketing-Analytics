@@ -55,8 +55,10 @@ Cleaning data (MySQL) -> EDA (MySQL) -> Connect to Excel (Power Query) -> Prepar
 - Discover seasonal marketing trends.
 - Optimize marketing budget allocation based on ROI.
 
-## Dashboard Preview
-<img src="Dashboard picture.png" width="1000">
+## Dashboard
+The interactive Excel dashboard can be downloaded here:
+[Dashboard link](https://drive.google.com/drive/u/0/folders/1JYkKDELiF1a0EW7SSSisl2DVcRcwVoWb)
+<img src="Picture\Dashboard Picture.png" width="1000">
 
 ## Recommendations
 
